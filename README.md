@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm Bansil PAtel
+# Hi there! 👋 I'm Bansil Patel
 
 🎓 **Completed graduation from Parul University in India in the field of computer science and engineering**
-🎓 **Currently pursuing PG diploma in AI and ML in Lambton college**  
+
+🎓 **Currently pursuing a PG diploma in AI and ML in Lambton College**  
 💻 **Aspiring AI/ML Engineer**  
 🌟 **Passionate about building intelligent systems to solve real-world problems.**
 
