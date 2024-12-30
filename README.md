@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bansil PAtel
 
-<!--
-**Bansil25/Bansil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Completed graduation from Parul University in India in the field of computer science and engineering**
+🎓 **Currently pursuing PG diploma in AI and ML in Lambton college**  
+💻 **Aspiring AI/ML Engineer**  
+🌟 **Passionate about building intelligent systems to solve real-world problems.**
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Programming**: Python
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization**: Matplotlib, Plotly, Seaborn, PowerBI
+- **Tools**: Git, Jupyter Notebooks, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Developing an NLP-based Chatbot.
+- Exploring advanced techniques in Reinforcement Learning.
+
+## 🌱 Learning
+- Advanced Deep Learning architectures.
+- Deployment of AI models using Flask/Docker and cloud platforms (AWS, GCP).
+
+## 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/patelbansil)
+
