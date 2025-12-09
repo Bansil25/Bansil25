@@ -1,24 +1,13 @@
-# Hi there! 👋 I'm Bansil Patel
+# 💫 About Me:
+💼 Aspiring Data Analyst | Power BI Enthusiast | Python Developer | Machine Learning & Deep Learning<br><br>I help organizations turn raw data into actionable insights through analytics, dashboards, and predictive models.<br><br>🔹 Skills<br>Data Analytics & BI<br><br>Power BI, Tableau, Excel, DAX<br><br>Interactive dashboards, KPI reporting, data storytelling<br><br>Programming & SQL<br><br>Python (pandas, numpy, matplotlib, seaborn)<br><br>MySQL, SQL Server<br><br>Machine Learning & Deep Learning<br><br>Supervised & Unsupervised Learning: Regression, Classification, Clustering<br><br>Model Evaluation & Feature Engineering<br><br>Deep Learning: Neural Networks, CNNs, RNNs, TensorFlow, Keras<br><br>Data Visualization<br><br>Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
-🎓 **Completed graduation from Parul University in India in the field of computer science and engineering.**  
-🏫 **Currently pursuing a PG diploma in AI and ML at Lambton College.**  
-💻 **Aspiring AI/ML Engineer**  
-🌟 **Passionate about building intelligent systems to solve real-world problems.**
 
-## 🚀 Skills
-- **Programming**: Python
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Data Visualization**: Matplotlib, Plotly, Seaborn, PowerBI
-- **Tools**: Git, Jupyter Notebooks, Docker
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Patelbansil) 
 
-## 🔭 Current Projects
-- Developing an NLP-based Chatbot.
-- Exploring advanced techniques in Reinforcement Learning.
-
-## 🌱 Learning
-- Advanced Deep Learning architectures.
-- Deployment of AI models using Flask/Docker and cloud platforms (AWS, GCP).
-
-## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/patelbansil)
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bansil25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bansil25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bansil25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
